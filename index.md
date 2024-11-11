@@ -15,3 +15,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
   ``` javascript
       var myVar = "Hello, world!";
   ```
+### Day 26
+- [x] add headings 
+- [x] add image
+- [x] add code
+- [ ] add a table
